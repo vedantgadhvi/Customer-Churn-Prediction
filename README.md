@@ -33,7 +33,9 @@ This project covers:
 ## Project Structure
 
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+
 ├── customer_churn_prediction.ipynb
+
 ├── README.md
 
 
