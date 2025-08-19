@@ -15,7 +15,6 @@ This project covers:
 - **Feature Engineering:** Creating lifecycle, service utilization, spending efficiency, and customer value features  
 - **Customer Segmentation:** Using clustering and UMAP visualization to identify customer groups  
 - **Predictive Modeling:** Random Forest, XGBoost, LightGBM, and an Ensemble meta-learner  
-- **Interpretability:** Explainable AI using SHAP and LIME  
 - **Vector Database (Pinecone):** Customer similarity search based on embeddings  
 
 ---
@@ -26,8 +25,7 @@ This project covers:
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Clustering & Dimensionality Reduction:** KMeans, PCA, UMAP  
 - **Imbalanced Data Handling:** SMOTE (Imbalanced-learn)  
-- **Hyperparameter Optimization:** GridSearchCV, Optuna  
-- **Interpretability:** SHAP, LIME  
+- **Hyperparameter Optimization:** GridSearchCV, Optuna    
 - **Vector DB:** Pinecone + Sentence-Transformers  
 
 ---
