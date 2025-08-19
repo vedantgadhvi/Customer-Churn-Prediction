@@ -14,7 +14,8 @@ This project covers:
 - **Exploratory Data Analysis (EDA):** Insights on churn drivers and visualization of feature patterns  
 - **Feature Engineering:** Creating lifecycle, service utilization, spending efficiency, and customer value features  
 - **Customer Segmentation:** Using clustering and UMAP visualization to identify customer groups  
-- **Predictive Modeling:** Random Forest, XGBoost, LightGBM, and an Ensemble meta-learner  
+- **Predictive Modeling:** Random Forest, XGBoost, LightGBM, and an Ensemble meta-learner
+- **Interpretability:** Explainable AI using SHAP and LIME   
 - **Vector Database (Pinecone):** Customer similarity search based on embeddings  
 
 ---
@@ -25,7 +26,8 @@ This project covers:
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Clustering & Dimensionality Reduction:** KMeans, PCA, UMAP  
 - **Imbalanced Data Handling:** SMOTE (Imbalanced-learn)  
-- **Hyperparameter Optimization:** GridSearchCV, Optuna    
+- **Hyperparameter Optimization:** GridSearchCV, Optuna
+- **Interpretability:** SHAP, LIME    
 - **Vector DB:** Pinecone + Sentence-Transformers  
 
 ---
